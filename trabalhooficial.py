@@ -1,3 +1,6 @@
+#Trabalho de POO. Componentes: Antônio Marcos, Carlos Eduardo, Guilherme e Pedro Wellington.
+#Professor: Rogério Batista
+
 from abc import ABC, abstractmethod
 from typing import List, Dict, Optional
 
@@ -227,3 +230,4 @@ def demonstracao():
 
 if __name__ == "__main__":
     demonstracao()
+
